@@ -3,7 +3,7 @@
 
 AeroFit Business & Customer Analysis 
 
----
+----
 
 # Project Overview:-
 
@@ -13,26 +13,26 @@ customer behavior, product preferences, and factors influencing purchases.
 The goal is to use data analysis to generate business insights and
 recommendations for improving sales and customer targeting.
 
----
+----
 
 # Dataset:-
-- Insight and case study file: 
+- Insight and case study file: Aerofit_.ipynb
 - Raw Data File: aerofit_treadmill.csv
 - Records In Raw Data File: Customers who purchased a treadmill in the last 3 months
-- Reference Analytical Question File - 
+- Reference Analytical Question File - AeroFit.docx
 
 # Features:
-- Product (KP281, KP481, KP781)
-- Age
-- Gender
-- Education
-- MaritalStatus
-- Usage
-- Income (in $)
-- Fitness (1–5 scale)
-- Miles (weekly)
+  - Product (KP281, KP481, KP781)
+  - Age
+  - Gender
+  - Education
+  - MaritalStatus
+  - Usage
+  - Income (in $)
+  - Fitness (1–5 scale)
+  - Miles (weekly)
 
----
+----
 
 ## Analysis Performed
 
@@ -44,7 +44,7 @@ recommendations for improving sales and customer targeting.
 - Customer profiling  
 - Business recommendations  
 
----
+----
 
 ##  Key Insights
 - Most customers use treadmills 3–4 days/week.
@@ -53,7 +53,7 @@ recommendations for improving sales and customer targeting.
 - Usage and Miles show a strong positive correlation.
 - Partnered customers buy more than single customers.
 
----
+----
 
 ##  Recommendations
 - Target KP781 to high-fitness and high-income users.
@@ -61,7 +61,7 @@ recommendations for improving sales and customer targeting.
 - Introduce couple and family fitness packages.
 - Run engagement programs to increase usage frequency.
 
----
+----
 
 ## Tools Used
 - Python
@@ -71,8 +71,9 @@ recommendations for improving sales and customer targeting.
 - Seaborn  
 - Google Colab  
 
----
+----
 
 ##  Author
 Name: Sunil Kumar Parida
+
 Project: Business & Customer Data Analysis of AeroFit 
